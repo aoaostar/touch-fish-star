@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.aoaostar.touchfishstar.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.aoaostar.touchfishstar.MyBundle
 
 class MyApplicationService {
 
